@@ -2827,7 +2827,7 @@ wheels = [
 
 [[package]]
 name = "ydata-profiling"
-version = "4.18.0"
+version = "4.18.1"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "dacite" },
@@ -2852,9 +2852,9 @@ dependencies = [
     { name = "visions", extra = ["type-image-path"] },
     { name = "wordcloud" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/9e/7a/ab55111e396cb003f7e6e19e8671ea25c8d6b0f490164a6a13c1ccec0449/ydata_profiling-4.18.0.tar.gz", hash = "sha256:c3a0afd82e605c6903dd140b5fc41dabad8ee690601ad3d6c27da28e80b07cc6", size = 329817, upload-time = "2025-11-21T05:05:23.321Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/40/83/03011a81f7148a71b81dfd9afda9c497de9801a3af24a2f636e47701b052/ydata_profiling-4.18.1.tar.gz", hash = "sha256:6dc529893c84abecda2e6038564cabcd69a6b801a730e077b61b6d500a98f30c", size = 331100, upload-time = "2026-01-13T18:28:59.076Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/c7/5d/5eeb72c21978bc3ec6cdfa9fec19cfde6bd0dd8d601ce606a2de8d2cf8d3/ydata_profiling-4.18.0-py2.py3-none-any.whl", hash = "sha256:d1c6d2c0cdf8ed077608c9ab4618c43a124119363633194fe82d3dee9be429bf", size = 398738, upload-time = "2025-11-21T05:05:21.494Z" },
+    { url = "https://files.pythonhosted.org/packages/64/2c/992c6ef2677b182b86157eef2124a0e837aa3d128b5b09f6fb03cd51bb0a/ydata_profiling-4.18.1-py2.py3-none-any.whl", hash = "sha256:cd816865930f090cc71bbd5c2045b90c727e7448e3402d22f397f7ed3d4e2927", size = 400396, upload-time = "2026-01-13T18:28:57.08Z" },
 ]
 
 [[package]]
