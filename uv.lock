@@ -43,7 +43,7 @@ requires-dist = [
     { name = "scikit-learn", specifier = ">=1.7.0" },
     { name = "scipy", specifier = ">=1.15.3" },
     { name = "seaborn", specifier = ">=0.13.2" },
-    { name = "ydata-profiling", specifier = ">=4.18.3" },
+    { name = "ydata-profiling", specifier = ">=4.18.4" },
 ]
 
 [package.metadata.requires-dev]
