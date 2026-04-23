@@ -27,7 +27,7 @@ dependencies = [
     "scikit-learn>=1.7.0",
     "scipy>=1.15.3",
     "seaborn>=0.13.2",
-    "ydata-profiling>=4.18.3",
+    "ydata-profiling>=4.18.4",
 ]
 
 [project.urls]

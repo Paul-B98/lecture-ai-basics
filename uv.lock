@@ -39,7 +39,7 @@ requires-dist = [
     { name = "scikit-learn", specifier = ">=1.7.0" },
     { name = "scipy", specifier = ">=1.15.3" },
     { name = "seaborn", specifier = ">=0.13.2" },
-    { name = "ydata-profiling", specifier = ">=4.18.3" },
+    { name = "ydata-profiling", specifier = ">=4.18.4" },
 ]
 
 [package.metadata.requires-dev]
@@ -2886,7 +2886,7 @@ wheels = [
 
 [[package]]
 name = "ydata-profiling"
-version = "4.18.3"
+version = "4.18.4"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "dacite" },
@@ -2911,9 +2911,9 @@ dependencies = [
     { name = "visions", extra = ["type-image-path"] },
     { name = "wordcloud" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/1b/90/fecdf08148ce205075eae12380726655fd3c52f323940d90abe07f137471/ydata_profiling-4.18.3.tar.gz", hash = "sha256:9817caa784b4065455c2f527a106edd74719b2dfb3a69c0b8760d5ed4ee27613", size = 331603, upload-time = "2026-04-16T23:49:07.871Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/9d/a6/9fce390621ec3e51ab7b2deb855bbb81f8b6c44917fdcfa095624feb1f4a/ydata_profiling-4.18.4.tar.gz", hash = "sha256:c19a0b3dec081da024d18800ffcee0160b076edecef66ca55c75e00e6ac15e21", size = 331570, upload-time = "2026-04-22T23:14:44.287Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/f3/0b/da00faee551dfc0b984b0b6b4fc049aa15e18dfdb987e94281d8c79f3112/ydata_profiling-4.18.3-py2.py3-none-any.whl", hash = "sha256:3482932fb6f49c182391bcdc564541406ffde8ead5c15305242e7dad419a34b2", size = 400782, upload-time = "2026-04-16T23:49:06.048Z" },
+    { url = "https://files.pythonhosted.org/packages/df/ad/9078a92da6587d2a1b2376a30ac1030d0e932deb535dc203bbc8c60170ff/ydata_profiling-4.18.4-py2.py3-none-any.whl", hash = "sha256:5db41d8251e0b4c529ed226aaab2b2c493df4c83a206c2d0e50843a62f214b90", size = 400791, upload-time = "2026-04-22T23:14:42.176Z" },
 ]
 
 [[package]]
