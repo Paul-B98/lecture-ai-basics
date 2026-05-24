@@ -50,6 +50,9 @@ dev = [
     "ruff>=0.15.13",
 ]
 
+[tool.uv]
+exclude-newer = "P7D"
+
 [tool.pytest.ini_options]
 python_files = ["test_*.py", "*_test.py"]
 filterwarnings = ["ignore::DeprecationWarning"]
