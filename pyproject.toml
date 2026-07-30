@@ -19,7 +19,7 @@ classifiers = [
 requires-python = ">=3.12"
 dependencies = [
     "dask[complete]>=2026.7.1",
-    "duckdb>=1.5.4",
+    "duckdb>=1.5.5",
     "jupyterlab>=4.6.2",
     "matplotlib>=3.10.0",
     "numpy>=2.1.3",
