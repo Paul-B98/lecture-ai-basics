@@ -5,9 +5,6 @@ services:
     build:
       context: ..
       dockerfile: .devcontainer/Dockerfile
-    environment:
-      - no_proxy="127.0.0.1,localhost"
-      - NO_PROXY="127.0.0.1,localhost"
     env_file:
       - .env
     volumes:
