@@ -38,7 +38,7 @@ Learn the fundamentals of building, training, and evaluating machine learning mo
 2. [Machine Learning](./chapter/04_ml/02_machine_learning.ipynb): Build and train models using scikit-learn to make predictions and uncover patterns in data.
 3. [Evaluation](./chapter/04_ml/03_evaluation.ipynb): Assess model performance with appropriate metrics to understand and improve results.
 4. [Gradiant Boosting](./chapter/04_ml/04_gradiant_boosting.ipynb): Boosted trees, nested cross-validation with Optuna, and quantile regression.
-5. [Conformal Methods](./chapter/04_ml/05_conformal_methods.ipynb):Prediction sets and intervals with guaranteed coverage, for any model
+5. [Conformal Methods](./chapter/04_ml/05_conformal_methods.ipynb): Prediction sets and intervals with guaranteed coverage, for any model
 
 ### Assessment
 
