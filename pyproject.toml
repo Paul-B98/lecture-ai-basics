@@ -52,6 +52,3 @@ dev = [
     "pytest-cov>=6.2.1",
     "ruff>=0.16.2",
 ]
-
-[tool.uv]
-exclude-newer = "P7D"
