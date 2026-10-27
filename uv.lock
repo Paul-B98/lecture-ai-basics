@@ -1557,16 +1557,16 @@ wheels = [
 
 [[package]]
 name = "mapie"
-version = "1.5.0"
+version = "1.6.0"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "numpy" },
     { name = "scikit-learn" },
     { name = "scipy" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/1f/d5/4c800e1fbf6d24598662b30901bb928a61b23b06fd1ac86610f344448953/mapie-1.5.0.tar.gz", hash = "sha256:1b6a81797d549b0333d6f6865bd3bca4d26c41037f111fd84160ea87a70c6d72", size = 10162410, upload-time = "2026-08-05T13:28:18.639Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/b3/a0/4aa8f92e3423cb9f8478608b6da89cfa0477b367039035c6102cc2d1cc33/mapie-1.6.0.tar.gz", hash = "sha256:471631634184c4cc22641b8a72572df5b5e281e237b0c00ec6c1c668b78767c2", size = 13478928, upload-time = "2026-10-19T09:08:17.127Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/c8/65/c19e5f89552138eb2abc9ae4925822f4f1cea4cca4d17c61aa7a2b29a4f0/mapie-1.5.0-py3-none-any.whl", hash = "sha256:dfc74fc62d5276ec8ab9aa2d9e53cfeb9901fe1df27f8785e724939b6a512483", size = 555626, upload-time = "2026-08-05T13:28:16.446Z" },
+    { url = "https://files.pythonhosted.org/packages/67/d2/c2a652d10310b8e10731bcff875d0dd1b2fe1e682e73579ef33f428ad6ba/mapie-1.6.0-py3-none-any.whl", hash = "sha256:6bb6b217f33f1301913d230efab68b8b6ec3c0dcdf1e7ad28ccce73435f71dfb", size = 573257, upload-time = "2026-10-19T09:08:14.985Z" },
 ]
 
 [[package]]
