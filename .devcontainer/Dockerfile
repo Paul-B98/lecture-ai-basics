@@ -1,4 +1,5 @@
-FROM python:3.14.8-trixie
-COPY --from=ghcr.io/astral-sh/uv:0.11.21 /uv /uvx /bin/
+FROM ghcr.io/astral-sh/uv:0.13.6 as uv
+FROM python:3.14.10-trixie
+COPY --from=uv /uv /uvx /bin/
 
 ENV PYTHONUNBUFFERED 1
